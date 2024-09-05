@@ -2,7 +2,7 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/guilhermebp030504/GuilhermeBritoPizzollo-Turma01-Trabalho01/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/guilhermebp030504//GuilhermeBritoPizzollo-Turma01-Trabalho01/actions/workflows/node.js.yml)  
+[![Build and Tests](https://github.com/guilhermebp030504/GuilhermeBritoPizzollo-Turma01-Trabalho01/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/guilhermebp030504/GuilhermeBritoPizzollo-Turma01-Trabalho01/actions/workflows/node.js.yml)  
 
 ## Começando
 
